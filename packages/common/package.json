@@ -1,0 +1,12 @@
+{
+  "name": "@react-native-nextjs/common",
+  "version": "1.0.0",
+  "main": "index.ts",
+  "dependencies": {
+    "react": "^18.2.0",
+    "react-native": "^0.71.6"
+  },
+  "devDependencies": {
+    "@types/react": "^18.0.35"
+  }
+}
